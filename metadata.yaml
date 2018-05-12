@@ -1,0 +1,33 @@
+_repo: The-Old-Helmet-Volume-I_26829
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warner, Susan
+    aliases:
+    - Warner, Susan Bogert
+    - Wetherell, Elizabeth
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '4744'
+    url: http://www.gutenberg.org/2009/agents/4744
+    wikipedia: http://en.wikipedia.org/wiki/Susan_Warner
+description: ''
+gutenberg_issued: '2008-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Salvation -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Missionaries -- Fiction'
+title: The Old Helmet, Volume I
+url: http://www.gutenberg.org/ebooks/26829
